@@ -1,0 +1,1 @@
+COPY /Y %1 "%userprofile%\Documents\My Games\Path of Exile 2\%~n1%~x1"
